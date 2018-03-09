@@ -1,0 +1,8 @@
+# No enviroment variables
+.env
+
+# No compose
+docker-compose.yml
+
+# No data
+portainer/
